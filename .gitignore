@@ -1,0 +1,6 @@
+.env
+datab.sqlite3
+.venv
+__pycache__
+run.zip
+.idea
